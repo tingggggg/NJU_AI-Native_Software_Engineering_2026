@@ -1,6 +1,6 @@
 # 07 需求和架构 (2)
 
-- 影片:[需求和架构 (2) [07-Raw/26生成式软件工程/NJU] (1:39:42)](https://www.bilibili.com/video/BV1JGap6LE74)
+- 影片:[需求和架构 (2) [07-Raw/26生成式软件工程/NJU]](https://www.bilibili.com/video/BV1JGap6LE74)
 - 講義:[lect7](https://jyywiki.cn/GSE/2026/lect7.md) · [slides7.html](https://jyywiki.cn/GSE/2026/slides7.html)
 - Lab:[Lab2: Deeper Research](https://jyywiki.cn/GSE/2026/lab2.md)
 

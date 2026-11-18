@@ -1,6 +1,6 @@
 # 09 DeepSeek Harness
 
-- 影片:[DeepSeek Harness [09-Raw/26生成式软件工程/NJU] (1:29:24)](https://www.bilibili.com/video/BV144nc6KEA4)
+- 影片:[DeepSeek Harness [09-Raw/26生成式软件工程/NJU]](https://www.bilibili.com/video/BV144nc6KEA4)
 - 講義:[lect9](https://jyywiki.cn/GSE/2026/lect9.md) · [slides9.html](https://jyywiki.cn/GSE/2026/slides9.html)
 
 ---

@@ -1,6 +1,6 @@
 # 01 欢迎来到未来
 
-- 影片:[欢迎来到未来 [01-Raw/26生成式软件工程/NJU] (1:40:00)](https://www.bilibili.com/video/BV1pb8o6yE8f)
+- 影片:[欢迎来到未来 [01-Raw/26生成式软件工程/NJU]](https://www.bilibili.com/video/BV1pb8o6yE8f)
 - 講義:[lect1](https://jyywiki.cn/GSE/2026/lect1.md) · [slides1.html](https://jyywiki.cn/GSE/2026/slides1.html)
 
 ---

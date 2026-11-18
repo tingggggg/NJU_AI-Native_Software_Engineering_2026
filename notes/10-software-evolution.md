@@ -1,6 +1,6 @@
 # 10 软件的演化 (航母是怎么造出来的)
 
-- 影片:[软件的演化 (航母是怎么造出来的) [10-Raw/26生成式软件工程/NJU] (1:39:54)](https://www.bilibili.com/video/BV1Guxu6EERa)
+- 影片:[软件的演化 (航母是怎么造出来的) [10-Raw/26生成式软件工程/NJU]](https://www.bilibili.com/video/BV1Guxu6EERa)
 - 講義:[lect10](https://jyywiki.cn/GSE/2026/lect10.md) · [slides10.html](https://jyywiki.cn/GSE/2026/slides10.html)
 
 ---

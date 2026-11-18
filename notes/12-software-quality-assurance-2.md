@@ -1,6 +1,6 @@
 # 12 软件质量保障 (2)
 
-- 影片:[软件质量保障 (2) [12-Raw/26生成式软件工程/NJU] (1:35:10)](https://www.bilibili.com/video/BV1LaW36WErp)
+- 影片:[软件质量保障 (2) [12-Raw/26生成式软件工程/NJU]](https://www.bilibili.com/video/BV1LaW36WErp)
 - 講義:[lect12](https://jyywiki.cn/GSE/2026/lect12.md) · [slides12.html](https://jyywiki.cn/GSE/2026/slides12.html)
 
 ---

@@ -1,6 +1,6 @@
 # 08 Agent Native 开发
 
-- 影片:[Agent-native 开发 [08-Raw/26生成式软件工程/NJU] (1:37:10)](https://www.bilibili.com/video/BV11LWw6VEHW)
+- 影片:[Agent-native 开发 [08-Raw/26生成式软件工程/NJU]](https://www.bilibili.com/video/BV11LWw6VEHW)
 - 講義:[lect8](https://jyywiki.cn/GSE/2026/lect8.md) · [slides8.html](https://jyywiki.cn/GSE/2026/slides8.html)
 
 ---
