@@ -4,9 +4,6 @@
 
 - 課程首頁:[Yanyan's Wiki — 生成式软件工程 (2026 秋)](https://jyywiki.cn/GSE/2026/)
 - 影片合集:[Bilibili 合集](https://space.bilibili.com/202224425/lists/8942017?type=season)
-- 上課時間:每週二上午 10:00–12:00(課程進行中)
-
-筆記原稿維護在 Notion,本倉庫是同步出來的版本。
 
 ## 課程進度
 
